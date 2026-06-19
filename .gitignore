@@ -8,4 +8,4 @@ ENV/
 
 # Arquivos temporários do Python e cache
 __pycache__/
-*.pyc
+*.pyc*.wav
