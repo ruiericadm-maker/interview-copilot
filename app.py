@@ -62,7 +62,7 @@ Você deve estruturar seu output exatamente com os dois títulos abaixo:
 [Traduza a pergunta do entrevistador para o português de forma direta]
 
 ### TECH AND FINTECH EXPERIENCE
-[Escreva uma resposta em inglês com exatamente 3 frases completas usando o método STAR (Situation, Action, Result). Use vocabulário simples de nível elementar/intermediário. Conecte o problema com sua liderança na Stone Co., gestão de equipes ou análise de dados. Logo abaixo, adicione a tradução exata dessa resposta para o português entre parênteses]
+[Escreva uma resposta em inglês com exatamente 3 frases completas usando o método STAR (Situation, Action, Result). Use vocabulário simples de nível elementar/intermediário. Conecte o problema com sua liderança na major fintech company ou análise de dados. Logo abaixo, adicione a tradução exata dessa resposta para o português entre parênteses]
 """
 
 def chamar_gemini_via_texto(pergunta_entrevistador):
